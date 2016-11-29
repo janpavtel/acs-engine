@@ -6,6 +6,8 @@ const (
 	Mesos OrchestratorType = "Mesos"
 	// DCOS is the string constant for DCOS orchestrator type and defaults to DCOS184
 	DCOS OrchestratorType = "DCOS"
+	// DCOS184 is the string constant for DCOS 1.8.7 orchestrator type
+	DCOS184 OrchestratorType = "DCOS187"
 	// DCOS184 is the string constant for DCOS 1.8.4 orchestrator type
 	DCOS184 OrchestratorType = "DCOS184"
 	// DCOS173 is the string constant for DCOS 1.7.3 orchestrator type
